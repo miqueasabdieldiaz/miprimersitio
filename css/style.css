@@ -1,0 +1,81 @@
+h1,
+h2 {
+    color: rgb(255, 255, 255);
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+}
+h2:hover{
+    color: rgb(237, 237, 93);
+    font-size: 30px;
+}
+body {
+    background-image: url("https://img.freepik.com/vector-gratis/fondo-hexagonal-oscuro-color-degradado_79603-1409.jpg?semt=ais_hybrid&w=740");
+}
+
+body {
+    margin: 0px 0px;
+    background-image: url("https://img.freepik.com/vector-gratis/fondo-hexagonal-oscuro-color-degradado_79603-1409.jpg?semt=ais_hybrid&w=740");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 500px;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+li {
+    color: blanchedalmond;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 10px 10pxrgb(20, 2, 61) <span class="material-symbols-outlined" > sports_esports </span> box-sizing: top: 10px;
+}
+
+h4 {
+    text: align 0px;
+    ;
+}
+
+p {
+    color: rgb(242, 249, 255);
+    border-top: 50px;
+    border-width: 50px;
+    margin: 10px;
+}
+
+section {
+    background-color: black;
+}
+
+nav {
+    color: gold;
+    padding: 40px;
+}
+
+ol {
+    color: silver;
+}
+
+ul {
+    color: #CD7F32;
+}
+footer{color: #2D336B}
+.footer{ text-align: right;
+color: white;
+margin-right: 50px;
+
+;}
+.footer2{
+    color: white;
+    text-align: center;
+    margin: 50px;
+    margin-top: 89px;
+}
+*{  font-family: "Oswald", sans-serif;}
+#enlace:hover{ font-size: 20px;
+ transform: ;
+}
+#titulo:hover{font-size: 40px 
+}

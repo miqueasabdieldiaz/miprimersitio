@@ -1,1 +1,19 @@
+section{color:yellow}
+esto se ultiliza para el general los de html otros para ser especificos
+nav{ background-color: rebeccapurple;}
+.section{ color:black}
+h1{ background-color:wheat;}
+footer{background-color: rgba(255, 0, 0, 0.543);}
+p,h2{ font-style: oblique;
+font-weight: 1000;
+font-weight: bolder 100};
 
+section{ 
+    margin: 0px 0px;
+    background-image: url("https://img.freepik.com/vector-gratis/fondo-hexagonal-oscuro-color-degradado_79603-1409.jpg?semt=ais_hybrid&w=740");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 500px;
+    background-size: cover;
+    border-radius: 10px;
+}
