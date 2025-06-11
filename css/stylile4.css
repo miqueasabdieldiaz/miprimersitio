@@ -1,0 +1,107 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 0fr;
+    grid-template-rows: 1.fr 1fr 1fr 1fr;
+    gap: 0px 0px;
+    grid-template-areas:
+        "m m j"
+        ". . ."
+        "l l p"
+        "o o kk"
+    
+        ;
+}
+
+.m {
+    grid-area: m;
+}
+
+.j{
+    grid-area: j;
+    width: 350px; 
+    height: 450px;
+    border-width: 30px;
+}
+    
+
+
+.l {
+    grid-area: l;
+    width: 350px; 
+    height: 450px;
+    
+}
+
+.p {
+    grid-area: p;
+}
+
+.o {
+    grid-area: o;
+    height: ;
+}
+
+.kk {
+    grid-area: kk;
+    width: 350px;
+    height: 450px;
+}
+
+.bd{
+   
+     font-family: "Freckle Face", system-ui;
+   color: white;
+   background-image:url(https://i.redd.it/playstation-2-wallpaper-original-image-by-u-adamlbiscuit-v0-79fjwa82qyrc1.png?width=5120&format=png&auto=webp&s=b969fd09866663f92f4873b1d0df5a8907a9bb1c) ;
+background-repeat: no-repeat;
+background-attachment: fixed;
+height: 200px;
+    background-size: cover;
+    border-radius: 100px;
+}
+.centra{text-align: center;
+}
+.centra:hover{font-size: ;
+color: rgb(132, 132, 247);}
+
+.j:hover{color:rgb(133, 133, 244)}
+.l:hover{color:rgb(133, 133, 244)}
+.o:hover{color:rgb(133, 133, 244)}
+.queesplaystation2:hover{color:rgb(133, 133, 244)}
+h1:hover{font-size: 40px;}
+@media(max-width: 400;){
+    .m {
+    grid-area: m;
+    width: 200px;
+}
+
+.j{
+    grid-area: j;
+    width: 200px; 
+    height: 450px;
+    border-width: 30px;
+}
+    
+
+
+.l {
+    grid-area: l;
+    width: 200px; 
+    height: 450px;
+    
+}
+
+.p {
+    grid-area: p;
+}
+
+.o {
+    grid-area: o;
+    height: ;
+}
+
+.kk {
+    grid-area: kk;
+    width: 200px;
+    height: 450px;
+}
+}
